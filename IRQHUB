@@ -324,7 +324,7 @@ loadstring(game:HttpGet("https://scriptblox.com/raw/Universal-Script-Best-RTX-Sc
    end,
 })
 
-local Tab = Window:CreateTab("مـابـات مـتـنـوعـه💯🔥") -- Title, Image
+local Tab = Window:CreateTab("سـكـربـتـات مـابـات مـتـنـــوعـه💯🔥") -- Title, Image
 
 local Button = Tab:CreateButton({
    Name = "مـاب الـصـواريـخ🚀🤯",
