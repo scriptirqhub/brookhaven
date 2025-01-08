@@ -323,6 +323,17 @@ local Button = Tab:CreateButton({
 loadstring(game:HttpGet("https://scriptblox.com/raw/Universal-Script-Best-RTX-Script-9042"))()
    end,
 })
+
+local Tab = Window:CreateTab("مـابـات مـتـنـوعـه💯🔥") -- Title, Image
+
+local Button = Tab:CreateButton({
+   Name = "مـاب الـصـواريـخ🚀🤯",
+   Callback = function() 
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Nadir3709/Key-System--/main/KeySystemm"))()
+   end,
+})
+
 Rayfield:Notify({
    Title = "مـنـوريـن الـسـكـربـت🔥",
    Content = "جـار تـحـمـيـل..... ",
