@@ -183,7 +183,6 @@ local Section = Tab:CreateSection("السكـربـتات : ")
 local Button = Tab:CreateButton({
    Name = "سكربت ام ام تو عربي 🔫",
    Callback = function() 
-
 loadstring(game:HttpGet"https://raw.githubusercontent.com/Au0yX/Community/main/XhubMM2")("https://t.me/arceusxscripts")
    end,
 })
@@ -217,6 +216,12 @@ local Button = Tab:CreateButton({
 local Button = Tab:CreateButton({
    Name = "افضل سكربت عربي لماب البيوت🥵",
    Callback = function() loadstring(game:HttpGet("https://rawscripts.net/raw/Brookhaven-RP-JG-26301"))()
+   end,
+})
+
+local Button = Tab:CreateButton({
+   Name = "سـكـربـت جـ**😉",
+   Callback = function() loadstring(game:HttpGet("https://pastefy.app/YZoglOyJ/raw"))()
    end,
 })
 
