@@ -209,8 +209,14 @@ local Tab = Window:CreateTab("سـكـربـتـات Brookhaven 🏡🔥") -- Ti
 local Section = Tab:CreateSection("Brookhaven 🏠🔥:")
 
 local Button = Tab:CreateButton({
-   Name = "سكربت الهـلال (االرحمه)🌙",
+   Name = "سكربت الهـلال (الرحمه)🌙",
    Callback = function() loadstring(game:HttpGet("https://raw.githubusercontent.com/n0kc/AtomicHub/main/Map-Al-Biout.lua"))() 
+   end,
+})
+
+local Button = Tab:CreateButton({
+   Name = "افضل سكربت عربي لماب البيوت🥵",
+   Callback = function() loadstring(game:HttpGet("https://rawscripts.net/raw/Brookhaven-RP-JG-26301"))()
    end,
 })
 
