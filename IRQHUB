@@ -1,9 +1,9 @@
 local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 
 local Window = Rayfield:CreateWindow({
-   Name = "//IRQ HUB🇮🇶💯//تم التطوير من قبل فريق IRQ",
+   Name = "//IRQ HUB🇮🇶💯//التحديثات بعد الامتحانات",
    Icon = 0, -- Icon in Topbar. Can use Lucide Icons (string) or Roblox Image (number). 0 to use no icon (default).
-   LoadingTitle = "//IRQ HUB🇮🇶💯//تم التطوير من قبل فريق IRQ",
+   LoadingTitle = "//IRQ HUB🇮🇶💯//التحديثات بعد الامتحانات",
    LoadingSubtitle = "جـار الـتـحـمـيـل.......",
    Theme = "Light", -- Check https://docs.sirius.menu/rayfield/configuration/themes
 
