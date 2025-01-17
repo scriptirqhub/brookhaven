@@ -324,7 +324,7 @@ local Button = Tab:CreateButton({
 })
 
 local Button = Tab:CreateButton({
-   Name = "سكربت ايم بوت 🔒",
+   Name = "سكربت ايم بوت 😎",
    Callback = function() 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ds5x/Scripts-Xhub/refs/heads/main/IMBOT-XHUB"))()
    end,
@@ -355,7 +355,7 @@ loadstring(game:HttpGet("https://scriptblox.com/raw/Universal-Script-Best-RTX-Sc
 })
 
 local Button = Tab:CreateButton({
-   Name = "سـكربـت قـفـل الـشـاشـه💥",
+   Name = "سـكربـت قـفـل الـشـاشـه🔒",
    Callback = function()
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/mohamed18899/Scren-Lok/main/Scren%20Lok"))()
