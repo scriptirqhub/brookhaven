@@ -17,7 +17,7 @@ local Window = Rayfield:CreateWindow({
    },
 
    Discord = {
-      Enabled = true, -- Prompt the user to join your Discord server if their executor supports it
+      Enabled = false, -- Prompt the user to join your Discord server if their executor supports it
       Invite = "https://discord.gg/N8RD3nhh", -- The Discord invite code, do not include discord.gg/. E.g. discord.gg/ABCD would be ABCD
       RememberJoins = true -- Set this to false to make them join the discord every time they load it up
    },
@@ -73,7 +73,7 @@ loadstring(game:HttpGet"https://raw.githubusercontent.com/UserDevEthical/Loadstr
 })
 
 local Button = Tab:CreateButton({
-   Name = "سكربت تحديث التنين 🔥",
+   Name = "سـكـربـت تـحـكـم بالـتـريـد🤯(فواكه مجانيه)",
    Callback = function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua", true))()
    end,
