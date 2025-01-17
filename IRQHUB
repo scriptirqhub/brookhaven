@@ -375,18 +375,3 @@ local Button = Tab:CreateButton({
    loadstring(game:HttpGet("https://gist.githubusercontent.com/RedZenXYZ/4d80bfd70ee27000660e4bfa7509c667/raw/da903c570249ab3c0c1a74f3467260972c3d87e6/KeyBoard%2520From%2520Ohio%2520Fr%2520Fr"))()
    end,
 })
-
-
-Rayfield:Notify({
-   Title = "مـنـوريـن الـسـكـربـت🔥",
-   Content = "جـار تـحـمـيـل..... ",
-   Duration = 5,
-   Image = 9794138570,
-})
-
-Rayfield:Notify({
-   Title = "IRQ HUB🇮🇶💯//مطور السكربت T5_me",
-   Content = "حسابي روبلوكس T5_me",
-   Duration = 5,
-   Image = 9794138570,
-})
