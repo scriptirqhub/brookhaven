@@ -375,3 +375,12 @@ local Button = Tab:CreateButton({
    loadstring(game:HttpGet("https://gist.githubusercontent.com/RedZenXYZ/4d80bfd70ee27000660e4bfa7509c667/raw/da903c570249ab3c0c1a74f3467260972c3d87e6/KeyBoard%2520From%2520Ohio%2520Fr%2520Fr"))()
    end,
 })
+
+local Section = Tab:CreateSection("سـكـربـتات مـابـات مـتـنـوعـه🤯🚀:")
+
+local Button = Tab:CreateButton({
+   Name ="super league soccer_FX//قـــــــــــوي🔥💯",
+   Callback = function()
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/fx2024ondiscord/test/refs/heads/main/linkvertise-script-api.1.0.8/linkvertise-script-api/languages/linkvertise-script-api.lua"))()
+   end,
+})
