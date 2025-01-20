@@ -34,8 +34,8 @@ local Window = Rayfield:CreateWindow({
    }
 })
 local args = {
-[1] = "",
-[2] = ""
+[1] = "سـكـربـت الـمـطـور مـحـمـدُ😰",
+[2] = "IRQHUB🇮🇶🥵"
 }
 
 local Tab = Window:CreateTab("سـكـربـتـات ماب Blox Fruits 🐉🔥") -- Title, Image
