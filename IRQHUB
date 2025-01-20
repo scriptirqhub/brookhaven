@@ -34,7 +34,7 @@ local Window = Rayfield:CreateWindow({
    }
 })
 local args = {
-[1] = "سـكـربـت الـمـطـور مـحـمـدُ😰",
+[1] = "RolePlayBio",
 [2] = "IRQHUB🇮🇶🥵"
 }
 
