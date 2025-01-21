@@ -288,3 +288,10 @@ local Button = Tab:CreateButton({
    loadstring(game:HttpGet("https://raw.githubusercontent.com/fx2024ondiscord/test/refs/heads/main/linkvertise-script-api.1.0.8/linkvertise-script-api/languages/linkvertise-script-api.lua"))()
    end,
 })
+
+local Button = Tab:CreateButton({
+   Name ="the strongest battlegrounds🌊",
+   Callback = function()
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/xVicity/GLACIER/main/LATEST.lua"))() 
+   end,
+})
