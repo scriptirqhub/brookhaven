@@ -1,7 +1,7 @@
 local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 
 local Window = Rayfield:CreateWindow({
-   Name = "||سۣۗـۙـكۣۗـۙربۣۗـۙـتۣۗـۙ آلَـمۣۗـۙـطۣۗـۙـوُر مۣۗـۙـحۣۗـۙـمۣۗـۙـدٌ🚬||مۣۗـۙآبۣۗـۙآتۣۗـۙ",
+   Name = "سِــکْــربًــتٌ آلَـمًـطِـوٌر مًـحًـمًـدٌٍ🚬|مًآبًآتٌ|",
    Icon = 0, -- Icon in Topbar. Can use Lucide Icons (string) or Roblox Image (number). 0 to use no icon (default).
    LoadingTitle = "مـــــــــــــــــــــنور✨",
    LoadingSubtitle = "جـار الـتـحـمـيـل.......",
