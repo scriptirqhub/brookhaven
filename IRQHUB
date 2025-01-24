@@ -1,9 +1,9 @@
 local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 
 local Window = Rayfield:CreateWindow({
-   Name = "//IRQ HUB🇮🇶💯//مـطـور الـسـكـربـت مـحـمدُ😰",
+   Name = "||سۣۗـۙـكۣۗـۙربۣۗـۙـتۣۗـۙ آلَـمۣۗـۙـطۣۗـۙـوُر مۣۗـۙـحۣۗـۙـمۣۗـۙـدٌ🚬||مۣۗـۙآبۣۗـۙآتۣۗـۙ",
    Icon = 0, -- Icon in Topbar. Can use Lucide Icons (string) or Roblox Image (number). 0 to use no icon (default).
-   LoadingTitle = "//IRQ HUB🇮🇶💯//مـطـور الـسـكـربـت مـحمدُ😰",
+   LoadingTitle = "مـــــــــــــــــــــنور✨",
    LoadingSubtitle = "جـار الـتـحـمـيـل.......",
    Theme = "Serenity", -- Check https://docs.sirius.menu/rayfield/configuration/themes
 
@@ -33,10 +33,6 @@ local Window = Rayfield:CreateWindow({
       Key = {"Hello"} -- List of keys that will be accepted by the system, can be RAW file links (pastebin, github etc) or simple strings ("hello","key22")
    }
 })
-local args = {
-[1] = "RolePlayBio",
-[2] = "IRQHUB🇮🇶🥵"
-}
 
 local Tab = Window:CreateTab("سـكـربـتـات ماب Blox Fruits 🐉🔥") -- Title, Image
 
