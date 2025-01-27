@@ -75,7 +75,7 @@ loadstring(game:HttpGet"https://raw.githubusercontent.com/UserDevEthical/Loadstr
 local Button = Tab:CreateButton({
    Name = "سـكـربـت تـحـكـم بالـتـريـد🤯(فواكه مجانيه)",
    Callback = function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua", true))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Deadhub0/Blox-fruit./refs/heads/main/Script'))()
    end,
 })
 
