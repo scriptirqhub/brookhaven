@@ -58,7 +58,7 @@ setclipboard("38c_j3")
 })
 
 local Button = Tab:CreateButton({
-   Name = "اضـغـط لـنـسـخ حـسـابـي سـيـرفـري الـديـسـكـورد✈️",
+   Name = "اضـغـط لـنـسـخ سـيـرفـري الـديـسـكـورد✈️",
    Callback = function()
 setclipboard("https://discord.gg/YScqRSU2")
    end,
