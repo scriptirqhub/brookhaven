@@ -186,14 +186,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Alexcirer/Alexcirer/r
 })
 
 local Button = Tab:CreateButton({
-   Name = "سكربت عـشـوائي ⚔️",
-   Callback = function() 
-
-loadstring(game:HttpGet("https://pastebin.com/raw/e7HqxVav"))()
-   end,
-})
-
-local Button = Tab:CreateButton({
    Name = "سكربت Lunex Hup ⚔️",
    Callback = function() 
 
